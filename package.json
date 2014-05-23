@@ -1,0 +1,15 @@
+{
+  "name": "nested-objects",
+  "version": "0.0.1",
+  "description": "creates nested objects given an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter=spec"
+  },
+  "repository": "https://github.com/zuzak/object-nester",
+  "author": "Douglas Gardner <douglas@chippy.ch>",
+  "license": "BSD",
+  "devDependencies": {
+    "mocha": "~1.19.0"
+  }
+}
